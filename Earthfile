@@ -1,4 +1,4 @@
 FROM busybox:1.32.0
 
-hello:
+build:
   RUN echo 'Hello, world!'
